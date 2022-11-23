@@ -1,0 +1,9 @@
+[run]
+source = .
+omit =
+    venv/*
+    _futcamp/*
+    manage.py
+
+[report]
+show_missing = True
